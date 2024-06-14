@@ -1,5 +1,3 @@
-Certainly! Here's a README template for your project:
-
 ---
 
 # General Classification Models
